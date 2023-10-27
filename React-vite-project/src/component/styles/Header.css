@@ -1,0 +1,17 @@
+
+.header {
+    background-color: #c1c1e2;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .header h2 {
+    text-justify: left;
+    color: #3a3838;
+    font-size: 24px;
+  }
+  
+  .header p {
+    color: #666;
+    font-size: 16px;
+  }
