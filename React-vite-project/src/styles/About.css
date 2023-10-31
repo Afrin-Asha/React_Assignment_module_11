@@ -1,17 +1,17 @@
 
-.header {
-    background-color: #c1c1e2;
+.about {
+    background-color: #aa87c2;
     padding: 20px;
     text-align: center;
   }
   
-  .header h2 {
+  .about h2 {
     text-justify: left;
-    color: #3a3838;
+    color: #292424;
     font-size: 24px;
   }
   
-  .header p {
-    color: #666;
+  .about p {
+    color: #383232;
     font-size: 16px;
   }

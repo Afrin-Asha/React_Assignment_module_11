@@ -1,9 +1,9 @@
-import './styles/About.css';
+import '../styles/About.css';
 const About = () => {
     return (
-        <div>
+        <div className='about'>
              <h2>About</h2>
-            <p>This is a About </p>
+            <p>This is a About Component </p>
         </div>
     );
 };
